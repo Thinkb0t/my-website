@@ -1,0 +1,51 @@
+{
+  "email": "bib@domain.com",
+  "meetingForm": "https://forms.gle/fNtCxKMdbohf8PNn8",
+  "resume": {
+    "previewUrl": "/resume",
+    "downloadUrl": "/api/resume"
+  },
+  "social": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/thinkb0t",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bibhijith/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/bibhijith_ea",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/ig.thinkbot",
+      "icon": "FaInstagram"
+    }
+  ],
+  "thinkbot": {
+    "defaultResponse": "Hi, I'm Thinkbot! How can I assist you today? Click on a topic below to learn more about Bibhijith E A.",
+    "topics": [
+      {
+        "label": "Research Projects",
+        "response": "Bibhijith E A is currently working on Brain-Computer Interface (BCI), Quantum Computing, and Robotics projects. Would you like to learn more about any of these areas?"
+      },
+      {
+        "label": "Certifications",
+        "response": "Bibhijith E A holds various certifications in fields like Cognitive Science, Data Science, AI, and more. Check out the Certifications page for the complete list!"
+      },
+      {
+        "label": "Contact Information",
+        "response": "You can reach Bibhijith E A via email or schedule a meeting using the form on the Contact page. Would you like me to help you find that?"
+      },
+      {
+        "label": "Website Navigation",
+        "response": "The website has several sections: Home, About, Research, Blog, and Contact. Which area would you like to explore?"
+      }
+    ]
+  }
+}

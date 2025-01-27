@@ -1,0 +1,127 @@
+{
+  "personal": {
+    "name": "Bibhijith E A",
+    "title": "Independent Researcher",
+    "email": "bib@domain.com",
+    "summary": "Independent researcher with a passion for exploring cutting-edge technologies, including neuroscience, quantum computing, AI, data science, and embedded systems. Committed to interdisciplinary learning and innovation through the convergence of multiple fields."
+  },
+  "education": [
+    {
+      "degree": "BSc in Zoology",
+      "institution": "Union Christian College, Aluva",
+      "period": "2017-2020"
+    },
+    {
+      "degree": "BA in Psychology (Honours)",
+      "institution": "Indira Gandhi National Open University",
+      "period": "2021-2024"
+    },
+    {
+      "degree": "Chartered Accountancy (CA)",
+      "institution": "ICAI",
+      "period": "2025-Present"
+    }
+  ],
+  "research": {
+    "interests": [
+      "Brain-Computer Interface (BCI)",
+      "Quantum Computing",
+      "Artificial Intelligence",
+      "Data Science",
+      "Embedded Systems"
+    ],
+    "projects": [
+      {
+        "title": "Brain-Computer Interface (BCI)",
+        "description": "Developing innovative approaches to human-computer integration through brain-computer interfaces.",
+        "technologies": ["EEG", "Machine Learning", "Signal Processing"]
+      },
+      {
+        "title": "Quantum Computing Applications",
+        "description": "Investigating practical applications of quantum computing in solving complex computational problems.",
+        "technologies": ["Quantum Circuits", "Quantum Programming", "Simulation Tools"]
+      },
+      {
+        "title": "Advanced Robotics Systems",
+        "description": "Exploring the integration of AI and robotics to create more adaptive and intelligent robotic systems.",
+        "technologies": ["ROS", "Computer Vision", "Machine Learning", "Sensor Systems"]
+      }
+    ]
+  },
+  "certifications": {
+    "Cognitive Science & Psychology": [
+      {
+        "title": "Cognitive Behavioural Therapy",
+        "issuer": "The Academy of Applied Psychology",
+        "year": 2022
+      },
+      {
+        "title": "Neuroscience",
+        "issuer": "CBEHx",
+        "year": 2022
+      }
+    ],
+    "Data Science & AI": [
+      {
+        "title": "IBM Data Science",
+        "issuer": "IBM",
+        "year": 2025
+      },
+      {
+        "title": "Applied Data Science",
+        "issuer": "IBM",
+        "year": 2025
+      },
+      {
+        "title": "IBM AI Developer",
+        "issuer": "IBM",
+        "year": 2025
+      }
+    ],
+    "Mathematics & Logic": [
+      {
+        "title": "Introduction to Logic",
+        "issuer": "Stanford University",
+        "year": 2023
+      },
+      {
+        "title": "Game Theory",
+        "issuer": "Stanford University and UBC",
+        "year": 2024
+      }
+    ]
+  },
+  "skills": {
+    "technical": [
+      "Machine Learning",
+      "Data Analysis",
+      "Quantum Computing",
+      "Neural Networks",
+      "Signal Processing",
+      "Robotics"
+    ],
+    "research": [
+      "Scientific Writing",
+      "Experimental Design",
+      "Data Visualization",
+      "Statistical Analysis"
+    ]
+  },
+  "interests": {
+    "professional": [
+      "Interdisciplinary Research",
+      "Technology Innovation",
+      "Scientific Computing"
+    ],
+    "personal": [
+      "Football",
+      "Cycling",
+      "Fencing",
+      "Gaming"
+    ]
+  },
+  "approach": {
+    "philosophy": "Value-driven and minimalist approach to problem-solving, with a strong commitment to learning from mistakes and maintaining a growth mindset.",
+    "focus": "Creating meaningful innovations through the convergence of multiple disciplines and cutting-edge technologies."
+  }
+}

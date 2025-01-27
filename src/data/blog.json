@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Introduction to AI in Modern Web Development",
+    "summary": "Explore how artificial intelligence is revolutionizing web development, from automated testing to personalized user experiences.",
+    "tags": ["AI", "Web Development", "JavaScript"],
+    "date": "2024-01-20"
+  },
+  {
+    "title": "The Future of React with Server Components",
+    "summary": "A deep dive into React Server Components and how they are changing the landscape of React applications.",
+    "tags": ["React", "Server Components", "Frontend"],
+    "date": "2024-02-15"
+  },
+  {
+    "title": "Mastering Tailwind CSS for Responsive Designs",
+    "summary": "Learn advanced techniques and best practices for creating responsive web designs using Tailwind CSS.",
+    "tags": ["Tailwind CSS", "CSS", "Responsive Design"],
+    "date": "2024-03-01"
+  }
+]

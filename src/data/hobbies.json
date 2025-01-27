@@ -1,0 +1,54 @@
+{
+  "hobbies": [
+    {
+      "category": "Sports & Physical Activities",
+      "items": [
+        {
+          "name": "Football",
+          "description": "Passionate about the beautiful game, both playing and following",
+          "icon": "⚽"
+        },
+        {
+          "name": "Cycling",
+          "description": "Exploring new paths and staying active through cycling",
+          "icon": "🚲"
+        },
+        {
+          "name": "Fencing",
+          "description": "Learning the art of fencing for both physical and mental discipline",
+          "icon": "🤺"
+        }
+      ]
+    },
+    {
+      "category": "Intellectual Pursuits",
+      "items": [
+        {
+          "name": "Reading",
+          "description": "Exploring diverse topics through books and academic papers",
+          "icon": "📚"
+        },
+        {
+          "name": "Gaming",
+          "description": "Strategic and problem-solving games for mental stimulation",
+          "icon": "🎮"
+        },
+        {
+          "name": "Continuous Learning",
+          "description": "Taking courses and exploring new subjects across disciplines",
+          "icon": "🎓"
+        }
+      ]
+    }
+  ],
+  "philosophy": {
+    "values": [
+      "Lifelong learning",
+      "Minimalism",
+      "Value-driven approach",
+      "Growth mindset",
+      "Innovation through interdisciplinary thinking"
+    ],
+    "quote": "Learning from mistakes and growing through challenges"
+  }
+}

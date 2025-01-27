@@ -1,0 +1,50 @@
+{
+  "research": [
+    {
+      "title": "Brain-Computer Interface (BCI)",
+      "area": "Neurotechnology",
+      "status": "Ongoing",
+      "description": "Developing innovative approaches to human-computer integration through brain-computer interfaces. This project explores the potential of direct neural communication with digital systems.",
+      "keyPoints": [
+        "Neural signal processing and interpretation",
+        "Interface design for BCI applications",
+        "Ethical considerations in brain-computer integration"
+      ],
+      "technologies": ["EEG", "Machine Learning", "Signal Processing"]
+    },
+    {
+      "title": "Quantum Computing Applications",
+      "area": "Quantum Technology",
+      "status": "Ongoing",
+      "description": "Investigating practical applications of quantum computing in solving complex computational problems. This research focuses on quantum algorithms and their potential impact on various fields.",
+      "keyPoints": [
+        "Quantum algorithm development",
+        "Quantum simulation techniques",
+        "Applications in optimization problems"
+      ],
+      "technologies": ["Quantum Circuits", "Quantum Programming", "Simulation Tools"]
+    },
+    {
+      "title": "Advanced Robotics Systems",
+      "area": "Robotics",
+      "status": "Ongoing",
+      "description": "Exploring the integration of AI and robotics to create more adaptive and intelligent robotic systems. This project aims to advance human-robot interaction and autonomous capabilities.",
+      "keyPoints": [
+        "AI-driven control systems",
+        "Sensor integration and processing",
+        "Human-robot interaction protocols"
+      ],
+      "technologies": ["ROS", "Computer Vision", "Machine Learning", "Sensor Systems"]
+    }
+  ],
+  "interests": {
+    "primary": [
+      "Neuroscience",
+      "Quantum Computing",
+      "Artificial Intelligence",
+      "Data Science",
+      "Embedded Systems"
+    ],
+    "focus": "Interdisciplinary research combining multiple fields to create innovative solutions"
+  }
+}

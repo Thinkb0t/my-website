@@ -1,0 +1,149 @@
+{
+  "certifications": [
+    {
+      "category": "Cognitive Science & Psychology",
+      "items": [
+        {
+          "title": "Cognitive Behavioural Therapy",
+          "issuer": "The Academy of Applied Psychology",
+          "year": 2022,
+          "description": "Advanced understanding of CBT principles and applications"
+        },
+        {
+          "title": "Neuroscience",
+          "issuer": "CBEHx",
+          "year": 2022,
+          "description": "Comprehensive study of brain function and neural systems"
+        }
+      ]
+    },
+    {
+      "category": "Data Science & AI",
+      "items": [
+        {
+          "title": "IBM Data Science",
+          "issuer": "IBM",
+          "year": 2025,
+          "description": "Complete data science methodology and tools"
+        },
+        {
+          "title": "Applied Data Science",
+          "issuer": "IBM",
+          "year": 2025,
+          "description": "Practical applications of data science techniques"
+        },
+        {
+          "title": "IBM AI Developer",
+          "issuer": "IBM",
+          "year": 2025,
+          "description": "AI development and implementation"
+        },
+        {
+          "title": "Introduction to Data Concepts",
+          "issuer": "IBM",
+          "year": 2024,
+          "description": "Foundational data concepts and principles"
+        },
+        {
+          "title": "GenAI for Everyone",
+          "issuer": "United Latino Students Association",
+          "year": 2025,
+          "description": "Generative AI fundamentals and applications"
+        }
+      ]
+    },
+    {
+      "category": "Mathematics & Logic",
+      "items": [
+        {
+          "title": "Introduction to Logic",
+          "issuer": "Stanford University",
+          "year": 2023,
+          "description": "Formal logic and reasoning principles"
+        },
+        {
+          "title": "Introduction to Logic and Critical Thinking",
+          "issuer": "Duke University",
+          "year": 2023,
+          "description": "Advanced logical analysis and critical thinking"
+        },
+        {
+          "title": "Game Theory",
+          "issuer": "Stanford University and UBC",
+          "year": 2024,
+          "description": "Strategic decision making and mathematical modeling"
+        },
+        {
+          "title": "Basic Mathematics",
+          "issuer": "BITS, Pilani",
+          "year": 2024,
+          "description": "Core mathematical concepts and applications"
+        },
+        {
+          "title": "Introduction to Calculus",
+          "issuer": "The University of Sydney",
+          "year": 2024,
+          "description": "Fundamental calculus principles"
+        },
+        {
+          "title": "Algebra: Elementary to Advanced",
+          "issuer": "Johns Hopkins University",
+          "year": 2024,
+          "description": "Comprehensive algebraic concepts and methods"
+        }
+      ]
+    },
+    {
+      "category": "Technology & Tools",
+      "items": [
+        {
+          "title": "AWS Fundamentals",
+          "issuer": "Amazon Web Services",
+          "year": 2025,
+          "description": "Cloud computing fundamentals with AWS"
+        },
+        {
+          "title": "Microsoft 365 Fundamentals",
+          "issuer": "Microsoft",
+          "year": 2024,
+          "description": "Microsoft 365 suite and cloud services"
+        },
+        {
+          "title": "SAP Technology Consultant",
+          "issuer": "Coursera",
+          "year": 2025,
+          "description": "SAP technology implementation and consulting"
+        },
+        {
+          "title": "Notion for Beginners",
+          "issuer": "Coursera",
+          "year": 2025,
+          "description": "Productivity and organization with Notion"
+        },
+        {
+          "title": "Applied Digital Skills",
+          "issuer": "Google",
+          "year": 2024,
+          "description": "Practical digital skills and applications"
+        }
+      ]
+    },
+    {
+      "category": "Philosophy & Critical Thinking",
+      "items": [
+        {
+          "title": "Introduction to Philosophy",
+          "issuer": "The University of Edinburgh",
+          "year": 2025,
+          "description": "Philosophical concepts and critical analysis"
+        },
+        {
+          "title": "Mindware: Critical Thinking for the Information Age",
+          "issuer": "University of Michigan",
+          "year": 2025,
+          "description": "Advanced critical thinking in the digital era"
+        }
+      ]
+    }
+  ]
+}

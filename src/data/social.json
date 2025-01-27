@@ -1,5 +1,5 @@
 {
-  "email": "bib@domain.com",
+  "email": "bibhijitheasokan@gmail.com",
   "meetingForm": "https://forms.gle/fNtCxKMdbohf8PNn8",
   "resume": {
     "previewUrl": "/resume",
@@ -12,19 +12,15 @@
       "icon": "FaGithub"
     },
     {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/bibhijith/",
-      "icon": "FaLinkedin"
-    },
-    {
-      "name": "Twitter",
-      "url": "https://twitter.com/bibhijith_ea",
-      "icon": "FaTwitter"
-    },
-    {
       "name": "Instagram",
       "url": "https://instagram.com/ig.thinkbot",
       "icon": "FaInstagram"
+    },
+    { "name": "LinkedIn", "url": "https://linkedin.com/in/bibhijith", "icon": "FaLinkedin" },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/thinkbot__",
+      "icon": "FaTwitter"
     }
   ],
   "thinkbot": {
